@@ -93,12 +93,7 @@ OSINT Platform/
    ```
    The frontend will start on [http://localhost:5173](http://localhost:5173) (default Vite port).
 
-### Desktop GUI (Optional)
 
-- Run the Tkinter-based GUI:
-  ```bash
-  python backend/osint_tool.py
-  ```
 
 ## Usage
 
